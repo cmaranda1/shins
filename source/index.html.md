@@ -1,14 +1,9 @@
 ---
-title: Swagger Petstore v1.0.0
+title: Ignitio Metrics Cloud API Documentation
 language_tabs:
   - shell: Shell
   - http: HTTP
   - javascript: JavaScript
-  - ruby: Ruby
-  - python: Python
-  - php: PHP
-  - java: Java
-  - go: Go
 toc_footers:
   - <a href="https://mermade.github.io/shins/asyncapi.html">See AsyncAPI
     example</a>
@@ -21,11 +16,11 @@ headingLevel: 2
 
 <!-- Generator: Widdershins v4.0.1 -->
 
-<h1 id="swagger-petstore">Swagger Petstore v1.0.0</h1>
+<h1 id="swagger-petstore">Ignitio API v1.0.0</h1>
 
-> Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.
+> We'll be changing all of this.
 
-:dog: :cat: :rabbit: This is a sample server Petstore server.  You can find out more about Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you can use the api key `special-key` to test the authorization filters.
+:dog: :cat: :rabbit: This is a sample server Ignitio server.  You can find out more about Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you can use the api key `special-key` to test the authorization filters.
 
 Base URLs:
 
@@ -4128,5 +4123,5 @@ This operation does not require authentication
 </script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTA1NzQ4NV19
+eyJoaXN0b3J5IjpbLTUxNDY4OTgxMywtOTkxMDU3NDg1XX0=
 -->
